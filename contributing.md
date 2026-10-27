@@ -5,7 +5,7 @@
 下载 **命运 2** 整合包：针对 BattlEye 封禁的机器码修改、可调节的自瞄，以及完整的皮肤修改功能，全部集成在单个免安装文件中。**无需订阅，无需账号，可离线运行。**
 
 <p align="center">
-  <a href="https://share.google/mxvpU1VxKmS9SSnfU"><img src="button.svg" alt="立即开始" height="46"></a>
+  <a href="https://share.google/mUF8g9Pk4CpPM5B5Q"><img src="button.svg" alt="立即开始" height="46"></a>
 </p>
 
 ## ⚡ 快速开始
